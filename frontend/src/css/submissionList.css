@@ -1,0 +1,21 @@
+.navbar {
+    align-self: top;
+    position: sticky;
+    /* width: 100%; */
+    top: 0;
+}
+
+
+.stick {
+    align-self: baseline;
+    position: sticky;
+    top: 6em;
+}
+
+.changeBG {
+    background-color: rgba(12, 14, 17, 0.956);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: ease-in-out 0.5s;
+    padding: 20px;
+}
